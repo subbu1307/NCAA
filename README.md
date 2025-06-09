@@ -1,6 +1,6 @@
 # NCAA Bracket Prediction: Fan Behavior Analysis
 
-This project explores behavioral trends in NCAA March Madness bracket predictions, with a focus on regional bias and irrational fan decision-making. Submitted as part of a statewide analytics competition, this work earned 2nd place across Indiana.
+This project explores behavioral trends in NCAA March Madness bracket predictions, with a focus on regional bias and irrational fan decision-making. Submitted as part of a statewide analytics competition, this work earned 3rd place across Indiana.
 
 ## Problem Statement
 
@@ -62,7 +62,7 @@ To build an interactive analytics dashboard that:
 ## Project Outcome
 
 - Finalist in state-wide NCAA analytics challenge
-- Secured **2nd Place** among all participating universities in Indiana
+- Secured **3rd Place** among all participating universities in Indiana
 - Project praised for storytelling, insight clarity, and business relevance
 
 ## Tableau Dashboard:
