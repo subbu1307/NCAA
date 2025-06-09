@@ -64,3 +64,6 @@ To build an interactive analytics dashboard that:
 - Finalist in state-wide NCAA analytics challenge
 - Secured **2nd Place** among all participating universities in Indiana
 - Project praised for storytelling, insight clarity, and business relevance
+
+  ## Tableau Dashboard:
+  https://public.tableau.com/views/CCACDashboard-TeamDataCurry/1_EDAKPIs?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
